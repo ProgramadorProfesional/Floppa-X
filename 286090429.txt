@@ -1,0 +1,1 @@
+{"Smoothness":"3","Wallbang":true,"Aimbot":true,"Team Check":true,"Show FOV":false,"Visuals Color":"Rainbow","ESP":true,"Aim Part":"Head","Tracers":true,"Silent Aim":true}
